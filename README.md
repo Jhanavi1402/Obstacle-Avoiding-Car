@@ -2,7 +2,7 @@
 
 |   |   |
 |---|---|
-| Obstacle Avoiding Car is a Bluetooth-controlled, Arduino-based obstacle-avoiding car designed for educational purposes and hobbyist robotics projects. It features autonomous obstacle detection and avoidance capabilities, along with remote control via Bluetooth. The modular design allows for easy customization and expansion, making it ideal for learning and experimentation. | ![ezbot](./Images%20and%20Videos/Ezbot.jpg) |
+| Obstacle Avoiding Car is a Bluetooth-controlled, Arduino-based car designed for educational purposes and hobbyist robotics projects. It features autonomous obstacle detection and avoidance capabilities, along with remote control via Bluetooth. The modular design allows for easy customization and expansion, making it ideal for learning and experimentation. | ![ezbot](./Images%20and%20Videos/Ezbot.jpg) |
 
 ---
 
