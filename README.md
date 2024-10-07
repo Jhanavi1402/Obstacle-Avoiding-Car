@@ -1,8 +1,8 @@
-# Ezbot: Obstacle Avoiding Car
+# Obstacle Avoiding Car
 
 |   |   |
 |---|---|
-| Ezbot is a Bluetooth-controlled, Arduino-based obstacle-avoiding car designed for educational purposes and hobbyist robotics projects. It features autonomous obstacle detection and avoidance capabilities, along with remote control via Bluetooth. The modular design allows for easy customization and expansion, making it ideal for learning and experimentation. | ![ezbot](./Images%20and%20Videos/Ezbot.jpg) |
+| Obstacle Avoiding Car is a Bluetooth-controlled, Arduino-based obstacle-avoiding car designed for educational purposes and hobbyist robotics projects. It features autonomous obstacle detection and avoidance capabilities, along with remote control via Bluetooth. The modular design allows for easy customization and expansion, making it ideal for learning and experimentation. | ![ezbot](./Images%20and%20Videos/Ezbot.jpg) |
 
 ---
 
@@ -23,7 +23,7 @@
 
 ## Introduction
 
-Ezbot is a small-scale autonomous vehicle built during a robotics internship as part of our Bachelor of Engineering program. Designed with an Arduino UNO, Ezbot navigates and avoids obstacles using an ultrasonic sensor and servo motor control. This README provides an overview of its components, setup instructions, and usage guidelines.
+Obstacle Avoiding Car is a small-scale autonomous vehicle built during a robotics internship as part of our Bachelor of Engineering program. Designed with an Arduino UNO, it navigates and avoids obstacles using an ultrasonic sensor and servo motor control. This README provides an overview of its components, setup instructions, and usage guidelines.
 
 ---
 
